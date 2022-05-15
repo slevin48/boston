@@ -1,4 +1,2 @@
-address,price,bedrooms,bathrooms,surface,url
-"5 Donnybrook Rd, Boston, MA 02135","$2,750",3 bd,2 ba,999 sq ft,https://www.apartments.com/5-donnybrook-rd-boston-ma/rhyk6z3/
-"472 Western Ave, Boston, MA 02135","$3,000",3 bd,1 ba,,https://www.apartments.com/472-western-ave-boston-ma/e5mfxsp/
-"37 Ridgemont St, Boston, MA 02134","$2,600",3 bd,1 ba,,https://www.apartments.com/3-br-1-bath-house-37-ridgemont-st-boston-ma/7fkx6zx/
+address,price,bedrooms,bathrooms,surface,url,location,point,latitude,longitude,altitude
+"5 Donnybrook Rd, Boston, MA 02135","$2,750",3 bd,2 ba,999 sq ft,https://www.apartments.com/5-donnybrook-rd-boston-ma/rhyk6z3/,"5, Donnybrook Road, Faneuil, Brighton, Boston, Suffolk County, Massachusetts, 02135, United States","(42.35408248177119, -71.15858979568584, 0.0)",42.35408248177119,-71.15858979568584,0.0
