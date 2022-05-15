@@ -1,0 +1,11 @@
+# general
+ipykernel
+pandas
+folium
+# # scrapping
+# selenium
+# clipboard
+# app
+streamlit
+streamlit-folium
+geopy
