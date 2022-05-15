@@ -28,7 +28,7 @@ def mapplot(df):
     )
     for index, row in df.iterrows():
         folium.Marker([row['latitude'], row['longitude']], 
-        popup=row['address']+" - <a href='"+row['url']+"'target='_blank'>details</a>",
+        popup="<a href='https://www.google.com/maps/search/"+row['address']+"' target='_blank'>"+row['address']+"</a> - <a href='"+row['url']+"' target='_blank'>details</a>",
         tooltip=row['price']+" "+row['bedrooms']+" "+row['bathrooms']+" "+str(row['surface'])
         ).add_to(map1)
     return map1
